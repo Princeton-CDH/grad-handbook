@@ -1,0 +1,1 @@
+This static site hosts the graduate student handbook of the [Center for Digital Humanities at Princeton](https://cdh.princeton.edu/). It was made using the [hugo-book theme](https://github.com/alex-shpak/hugo-book/).
