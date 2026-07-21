@@ -54,7 +54,7 @@ jobs:
           HUGO_ENVIRONMENT: production
           # force the use of Node24; Node20 deprecated
           # see https://github.blog/changelog/2025-09-19-deprecation-of-node-20-on-github-actions-runners/
-          FORCE_JAVASCRIPT_ACTIONS_TO_NODE24=true
+          FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
         run: |
           hugo \
             --minify \
