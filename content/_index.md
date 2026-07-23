@@ -1,11 +1,10 @@
 ---
-bookToc: false
+bookToc: true
 bookCollapseSection: true
 tags:
   - done
+title: Welcome!
 ---
-
-## Welcome! {anchor=false}
 
 The [Center for Digital Humanities](https://cdh.princeton.edu/) at Princeton is a vital academic unit where computation, data science, and the humanities converge. We empower researchers to reveal new insights about human culture through the informed and discerning use of data and computation.
 
