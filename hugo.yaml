@@ -1,4 +1,4 @@
-baseURL: "https://princeton-cdh.github.io/grad-handbook"
+baseURL: "https://princeton-cdh.github.io/grad-handbook/"
 title: Grad Student Handbook
 theme: hugo-book
 
