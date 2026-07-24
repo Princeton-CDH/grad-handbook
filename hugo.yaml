@@ -4,12 +4,16 @@ theme: hugo-book
 
 copyright: "Center for Digital Humanities @ Princeton"
 
+# exclude files
+ignoreFiles: ["/obsidian-meta"]
+
 # Book configuration
 disablePathToLower: true
 enableGitInfo: true
 
 # Needed for mermaid/katex shortcodes
 markup:
+  defaultMarkdownHandler: goldmark
   goldmark:
     renderer:
       unsafe: true
