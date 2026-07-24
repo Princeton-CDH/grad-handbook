@@ -5,7 +5,7 @@ tags:
 aliases:
 title: Graduate Training Grant
 weight: 23
-url: training-graint
+url: training-grant
 ---
 The CDH supports Princeton graduate students who would like to expand their knowledge of data-driven and computational approaches to the humanities by taking advantage of courses, workshops, summer schools, institutes or other training opportunities offered outside of Princeton. Recipients should learn new technical or methodological skills, receive professional development training, and/or make connections in the digital and computational humanities communities.
 
