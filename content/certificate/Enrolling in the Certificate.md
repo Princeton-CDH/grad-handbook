@@ -1,9 +1,12 @@
 ---
-aliases: Enrolling in the Certificate
+aliases:
 tags:
   - done
+title: Enrolling in the Certificate
+weight: 14
+url: enrolling
 ---
-Once you are confident you are [eligible](10-19%20Graduate%20Certificate%20in%20DH/12%20•%20Eligibility.md) for the Certificate and have reviewed its [requirements](10-19%20Graduate%20Certificate%20in%20DH/13%20•%20Requirements.md), you are ready to apply! Click the button below to complete a brief Google Form. 
+Once you are confident you are [eligible](certificate/Eligibility.md) for the Certificate and have reviewed its [requirements](certificate/Requirements.md), you are ready to apply! Click the button below to complete a brief Google Form. 
 
 {{< button href="https://forms.gle/PjCCvfeYQ8uYEfna7" >}}Enroll in the Certificate{{< /button >}}
 

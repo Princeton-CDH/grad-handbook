@@ -1,7 +1,10 @@
 ---
-aliases: Eligibility
+aliases:
 tags:
   - done
+title: Eligibility
+weight: 12
+url: eligibility
 ---
 Admission to the Certificate is open to PhD students in any academic division who are interested in applying concepts from critical data studies and media studies, or in using quantitative, data-intensive, or computational methods in their research. Students must be in good academic standing and have the written support of their academic advisor or the director of graduate studies in their department. There are no prerequisites.
 

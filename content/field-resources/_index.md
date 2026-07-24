@@ -1,6 +1,7 @@
 ---
-aliases: Field Resources
-weight: 5
+aliases:
+weight: 40
 bookIcon: cdh_icon_seed
 title: Field Resources
+url:
 ---

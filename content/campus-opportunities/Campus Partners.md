@@ -1,7 +1,9 @@
 ---
 tags:
   - done
-aliases: Campus Partners
+aliases:
+weight: 31
+url: partners
 ---
 
 The CDH collaborates with a number of Princeton campus units at the intersection of data, computation, and cultural criticism. Graduate students may want to explore the other offerings from:

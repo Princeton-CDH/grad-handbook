@@ -1,7 +1,10 @@
 ---
-aliases: Alumni
+aliases:
 tags:
   - to-do
+title: Alumni
+weight: 17
+url: alumni
 ---
 ## Recipients of Graduate Certificate in DH
 
@@ -17,7 +20,7 @@ Since it was launched in 2023, the following students have received the Graduate
 
 ## Career Outcomes
 
-Since it was founded in 2014, the CDH has trained hundreds of graduate students across our [many other co-curricular offerings](20-29%20Other%20CDH%20Programs/23%20•%20Possible%20Pathways%20Through%20Programs.md). These students hail from all fourteen PhD-granting humanities departments at Princeton plus Anthropology, Architecture, Computer Science, History, History of Science, Politics, and Sociology. These students have gone on to careers in higher education, libraries, policy, nonprofits, and the tech industry.
+Since it was founded in 2014, the CDH has trained hundreds of graduate students across our [many other co-curricular offerings](misc-programs/Possible%20Pathways%20Through%20Programs.md). These students hail from all fourteen PhD-granting humanities departments at Princeton plus Anthropology, Architecture, Computer Science, History, History of Science, Politics, and Sociology. These students have gone on to careers in higher education, libraries, policy, nonprofits, and the tech industry.
 
 > [!NOTE]
 > Stay tuned!

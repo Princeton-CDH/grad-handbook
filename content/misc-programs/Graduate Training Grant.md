@@ -1,3 +1,21 @@
+---
+CDH webpage: https://cdh.princeton.edu/funding/training-grants/
+tags:
+  - done
+aliases:
+title: Graduate Training Grant
+weight: 23
+url: training-graint
+---
+The CDH supports Princeton graduate students who would like to expand their knowledge of data-driven and computational approaches to the humanities by taking advantage of courses, workshops, summer schools, institutes or other training opportunities offered outside of Princeton. Recipients should learn new technical or methodological skills, receive professional development training, and/or make connections in the digital and computational humanities communities.
+
+> [!NOTE]
+> For a non-exhaustive list of institutes our students have attended in the past, see: [External Institutes and Workshops](field-resources/External%20Institutes%20and%20Workshops.md)
+
+Training Grants may be used to cover the costs of tuition, registration, travel, or lodging, up to $1,000. Applicants must also apply for any fellowships and bursaries offered by the host organization. Preference will be given to first-time applicants and there is a limit to one grant per year per applicant.
+
+## Applying to the Graduate Training Grant
+
 
 > [!NOTE]
 > Please read all requirements below before applying.

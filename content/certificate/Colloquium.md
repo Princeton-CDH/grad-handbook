@@ -1,6 +1,9 @@
 ---
 tags:
   - done
+title: Colloquium
+weight: 16
+url: colloquium
 ---
 Every April, the Commons Visualization Lab hosts a [Joint Graduate Certificate Colloquium in Data and Computation](https://researchcomputing.princeton.edu/learn/cse-graduate-certificate/colloquium). The joint colloquium is an opportunity for PhD students completing certificates in Computational Science & Engineering, Statistics & Machine Learning, and Digital Humanities to present their dissertation research in a way that showcases the use of data and computation across the disciplines.
 

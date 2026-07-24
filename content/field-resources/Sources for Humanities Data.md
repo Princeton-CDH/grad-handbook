@@ -1,8 +1,10 @@
 ---
-aliases: Sources for Humanities Data
+aliases:
 tags:
   - done
-title: 43 • Sources for Humanities Data
+title: Sources for Humanities Data
+weight: 45
+url: humanities-data
 ---
 Given the [complexity and nuance](https://dhdebates.gc.cuny.edu/read/untitled-f2acf72c-a469-49d8-be35-67f9ac1e3a60/section/07154de9-4903-428e-9c61-7a92a6f22e51) of our sources, it used to be a challenge to find high-quality data in the humanities. But with the recent proliferation of journals devoted to the peer-reviewed publication of humanities data, that is no longer the case.
 

@@ -1,10 +1,13 @@
 ---
 bookToc: true
-aliases: Graduate Courses
+aliases:
 tags:
   - done
+title: Graduate Courses
+weight: 15
+url: courses
 ---
-Princeton graduate courses (500-level or above) can be cross-listed with a `CDH` (Computational & Data Humanities) subject code. This subject code is administered by the Center for Digital Humanities. A 500-level course that is cross-listed with the `CDH` subject code signifies that the CDH has approved this course to fulfill the elective requirement for the [Graduate Certificate in DH](10-19%20Graduate%20Certificate%20in%20DH/11%20•%20Certificate%20Description.md). 
+Princeton graduate courses (500-level or above) can be cross-listed with a `CDH` (Computational & Data Humanities) subject code. This subject code is administered by the Center for Digital Humanities. A 500-level course that is cross-listed with the `CDH` subject code signifies that the CDH has approved this course to fulfill the elective requirement for the [Certificate Description](certificate/Certificate%20Description.md).
 
 Elective courses that count toward the certificate place humanistic research in meaningful and sustained dialogue with methods and concepts in data science, computation, and emerging technologies (e.g. generative art and synthetic text). These classes either a) teach critical and historical frameworks for studying computation, including those informed by data feminism, algorithmic bias frameworks, media theory, and tech justice, or b) require assignments applying data, computational, and quantitative methods to humanities research domains, or c) both. Please see below for categories of courses and examples of how they mix these critical and practical methodologies.
 

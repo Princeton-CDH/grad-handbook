@@ -1,6 +1,8 @@
 ---
 tags: to-do
-aliases: Readings
+aliases:
 draft: "true"
+weight: 51
+url: history
 ---
 TK

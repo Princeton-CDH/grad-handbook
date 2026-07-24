@@ -1,8 +1,10 @@
 ---
-aliases: Sources for DH News & Ideas
-title: 42 • Sources for DH News & Ideas
+aliases:
+title: Sources for DH News & Ideas
 tags:
   - done
+weight: 42
+url: sources
 ---
 
 ## Knowledge Bases

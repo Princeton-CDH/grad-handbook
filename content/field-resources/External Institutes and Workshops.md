@@ -1,7 +1,10 @@
 ---
-aliases: External Institutes and Workshops
+aliases:
+title: External Institutes and Workshops
+weight: 43
+url: workshops
 ---
-These are the institutes and workshops our students have attended in the past, with support of a [Graduate Training Grant](20-29%20Other%20CDH%20Programs/22%20•%20Graduate%20Training%20Grant.md):
+These are the institutes and workshops our students have attended in the past, with support of a [Graduate Training Grant](misc-programs/Graduate%20Training%20Grant.md):
 
 - [Digital Resources and Methods](http://web.sas.upenn.edu/dream-lab/) (DREAM Lab), University of Pennsylvania
 - [Digital Humanities Summer Institute](https://dhsi.org/) (DHSI), Montreal

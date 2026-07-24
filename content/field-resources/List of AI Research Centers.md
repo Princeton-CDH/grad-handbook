@@ -1,9 +1,10 @@
 ---
 aliases:
-  - List of AI Research Centers
 tags:
   - to-do
-title: 44 • List of AI Research Centers
+title: List of AI Research Centers
+weight: 44
+url: ai-centers
 ---
 AI --- its research applications, its political economy, and its underlying technology --- are evolving at a breakneck pace. Follow these groups to keep up to date.
 

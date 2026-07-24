@@ -1,7 +1,9 @@
 ---
-aliases: Current Reading Groups
+aliases:
 tags:
   - done
+weight: 33
+url: reading-groups
 ---
 Relevant reading groups on AI, DH, technology, and society can be found around campus, including:
 

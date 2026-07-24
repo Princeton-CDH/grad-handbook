@@ -1,7 +1,9 @@
 ---
-aliases: Campus Workshops
+aliases:
 tags:
   - done
+weight: 32
+url: campus-workshops
 ---
 Students looking to learn more about using data and computation in their research can find many sources of workshops and training around campus, including:
 
