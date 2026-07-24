@@ -15,7 +15,9 @@ This **Graduate Student Handbook** is is a living document for PhD students who 
 - Definitions of key concepts
 - Sources for DH training and news
 
-For those completely new to the field, you may want to begin with [Getting Started in Digital Humanities](field-resources/Getting%20Started%20in%20DH.md). You may also want to explore our flagship [Certificate Description](certificate/Certificate%20Description.md), as well as [possible pathways through CDH programs](misc-programs/Possible%20Pathways%20Through%20Programs.md).
+For those completely new to the field, you may want to begin with [Getting Started in Digital Humanities](field-resources/Getting%20Started%20in%20DH.md). 
+
+You may also want to explore our flagship [Certificate Description](certificate/Certificate%20Description.md), as well as [possible pathways through CDH programs](misc-programs/Possible%20Pathways%20Through%20Programs.md).
 
 > [!INFO] 
 > For questions about any of the CDH grad programs, contact [Grant Wythoff](https://cdh.princeton.edu/people/grant-wythoff/).
