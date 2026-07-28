@@ -10,8 +10,9 @@ body {
   color: var(--body-font-color);
   background: var(--body-background) var(--body-background-tint);
 
-  font-family: "IBM Plex Mono";
-  font-weight: var(--body-font-weight);
+  font-family: "Atkinson Hyperlegible Next VF";
+  font-variation-settings: "wght" 400, "ital" 0;
+  // font-weight: var(--body-font-weight);
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -19,7 +20,17 @@ body {
 }
 
 // bold text
-strong {font-family: "IBM Plex Mono Bold"}
+strong {font-variation-settings: "wght" 700, "ital" 0;}
+
+// italic text
+em {font-variation-settings: "wght" 400, "ital" 1;}
+
+// monospaced text
+
+code {
+  font-family: "Atkinson Hyperlegible Mono VF";
+  font-variation-settings: "wght" 400, "ital" 0;
+}
 
 h1,
 h2,
