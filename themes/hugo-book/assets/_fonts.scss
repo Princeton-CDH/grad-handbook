@@ -3,14 +3,16 @@
 
 @font-face {
   font-family: 'Atkinson Hyperlegible Next VF';
-  src: url('https://princeton-cdh.github.io/grad-handbook/fonts/AtkinsonHyperlegibleNextVF-Variable.woff2') format('woff2');
+  src: url('https://princeton-cdh.github.io/grad-handbook/fonts/AtkinsonHyperlegibleNextVF-Variable.woff2') format('woff2 supports variations'),
+       url('https://princeton-cdh.github.io/grad-handbook/fonts/AtkinsonHyperlegibleNextVF-Variable.woff2') format('woff2-variations');
   font-weight: 200 800;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'Atkinson Hyperlegible Mono VF';
-  src: url('https://princeton-cdh.github.io/grad-handbook/fonts/AtkinsonHyperlegibleMonoVF-Variable.woff2.woff2') format('woff2');
+  src: url('https://princeton-cdh.github.io/grad-handbook/fonts/AtkinsonHyperlegibleMonoVF-Variable.woff2.woff2') format('woff2 supports variations'),
+       url('https://princeton-cdh.github.io/grad-handbook/fonts/AtkinsonHyperlegibleMonoVF-Variable.woff2.woff2') format('woff2-variations');
   font-weight: 200 800;
   font-style: normal;
 }
