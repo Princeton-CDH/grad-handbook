@@ -40,9 +40,11 @@
       {{ template "book-icon-title" .Page -}}
     </a>
   {{ else }}
-    <a>
-      {{ template "book-icon-title" .Page -}}
-    </a>
+    <span class="filetree-header">
+      <a>
+        {{ template "book-icon-title" .Page -}}
+      </a>
+    </span>
   {{ end }}
 {{ end }}
 

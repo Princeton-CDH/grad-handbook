@@ -52,6 +52,12 @@ a {
   }
 }
 
+// heavier font weight for menu filetree headers
+
+.filetree-header {
+  font-variation-settings: "wght" 600;
+}
+
 small {
   @extend .text-small;
 }
