@@ -8,8 +8,6 @@ url: getting-started
 ---
 If you're new to DH, please check out these [sources for DH News, Ideas, and Community](field-resources/Sources%20for%20DH%20News,%20Ideas,%20Community.md). You should also free to [book a consultation](https://cdh.princeton.edu/consult/) with a CDH researcher at any time.
 
-[External Institutes and Workshops](field-resources/External%20Institutes%20and%20Workshops.md)
-
 Defining DH is a practice as old as the field itself, even to the point of parody.[^1] Some of our favorite definitions at the CDH revolve around a chiasmus: the use of **computational methods** in the humanities, and the **humanistic critique** of emerging technologies. For Schüller-Zwierlein et al.,
 
 > the Humanities are more necessary than ever as our cultural heritage as a species migrates to digital formats. Our relationship to knowledge and information is changing in profound and unpredictable ways. Digital Humanities studies the cultural and social impact of new technologies as well as takes an active role in the design, implementation, interrogation, and subversion of these technologies.[^2]
