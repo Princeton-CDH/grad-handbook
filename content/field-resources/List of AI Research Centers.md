@@ -8,7 +8,7 @@ url: ai-centers
 ---
 AI --- its research applications, its political economy, and its underlying technology --- are evolving at a breakneck pace. Follow these groups to keep up to date.
 
-# Community- and Justice-Focused
+## Community- and Justice-Focused
 
 - [AI Now Institute](https://ainowinstitute.org)
 - [Algorithmic Justice League](https://www.ajl.org/), Joy Buolamwini
@@ -30,7 +30,7 @@ AI --- its research applications, its political economy, and its underlying tech
 - Stanford’s [One Hundred Year Study on AI](https://ai100.stanford.edu/), releasing reports every 5 years. 2016, 2021 released so far.
 - Jokingly: [Center for the Alignment of AI Alignment Centers](https://alignmentalignment.ai/caaac)
 
-# Mapping These Groups & Arguments
+## Mapping These Groups & Their Arguments
 
 - [Mapping AI](https://mapping-ai.org/) focuses on the US AI policy landscape.
 - Michel Justen's ["A Guide to the AI Tribes"](https://substack.com/home/post/p-185759007) outlines the schools of thought on AI and its politics.
