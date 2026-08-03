@@ -20,6 +20,7 @@ AI --- its research applications, its political economy, and its underlying tech
 - [Centre for the Governance of AI](https://www.governance.ai/)
 - [All Tech is Human](https://alltechishuman.org/)
 - [Ada Lovelace Institute](https://www.adalovelaceinstitute.org/about/)
+- [TechTonic Justice](https://www.techtonicjustice.org/)
 
 ## University-Based or Research-Focused
 
