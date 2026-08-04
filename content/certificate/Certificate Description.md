@@ -12,3 +12,5 @@ The **Graduate Certificate in Digital Humanities** educates and credentials the 
 The Certificate equips Princeton graduate students to be interdisciplinary, forward-thinking researchers in a competitive academic job market. Certificate students are primed for careers on the tenure track as well as a broader range of professional futures in cultural heritage institutions, industry, or the public sphere.
 
 A student who obtains a Certificate in Digital Humanities will have that qualification appear on their University transcript, demonstrating that they have met standards of competency in the field.
+
+{{< figure src="images/certificate_stats.png" alt="Bar chart showing number of students enrolled & receiving certificate per year." caption="Certificate in Digital Humanities, enrollment over time." >}}

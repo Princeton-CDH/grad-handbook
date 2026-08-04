@@ -6,7 +6,7 @@ weight: 41
 title: Getting Started in DH
 url: getting-started
 ---
-If you're new to DH, please check out these [sources for DH News, Ideas, and Community](field-resources/Sources%20for%20DH%20News,%20Ideas,%20Community.md). You should also free to [book a consultation](https://cdh.princeton.edu/consult/) with a CDH researcher at any time.
+If you're new to DH, please check out these [sources for DH News, Ideas, and Community](field-resources/Sources%20for%20DH%20News,%20Ideas,%20Community.md). You should also free to [book a consultation](https://cdh.princeton.edu/consult/) with a CDH researcher at any time. Across all of [our programs](misc-programs/Possible%20Pathways%20Through%20Programs.md), our practice is to meet each student where they are, regardless of their technical or critical skill levels upon enrollment.
 
 Defining DH is a practice as old as the field itself, even to the point of parody.[^1] Some of our favorite definitions at the CDH revolve around a chiasmus: the use of **computational methods** in the humanities, and the **humanistic critique** of emerging technologies. For Schüller-Zwierlein et al.,
 
