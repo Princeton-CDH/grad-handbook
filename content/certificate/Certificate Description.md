@@ -13,4 +13,4 @@ The Certificate equips Princeton graduate students to be interdisciplinary, forw
 
 A student who obtains a Certificate in Digital Humanities will have that qualification appear on their University transcript, demonstrating that they have met standards of competency in the field.
 
-{{< figure src="images/certificate_stats.png" alt="Bar chart showing number of students enrolled & receiving certificate per year." caption="Certificate in Digital Humanities, enrollment over time." >}}
+{{< figure src="images/certificate_stats.png" alt="Bar chart showing number of students enrolled & receiving certificate per year." >}}
