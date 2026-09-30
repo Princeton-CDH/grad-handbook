@@ -16,7 +16,7 @@ For a list of past winners and details on the current call for applications, vis
 > 
 > {{< button href="https://forms.gle/ecMdxYsEEEvrCZTd6" >}}Apply Now{{< /button >}}
 
-Nominees for this year's Prize must have defended their dissertation (FPO) between January 1, 2025 and December 31, 2025. The deadline for nominations is June 1, 2026.
+Nominees for this year's Prize must have defended their dissertation (FPO) between January 1, 2026 and December 31, 2026. The deadline for nominations is June 1, 2027.
 
 *International students intending to apply for the Prize should contact the CDH first, due to the complexities of processing honoraria after student visas have expired.*
 
